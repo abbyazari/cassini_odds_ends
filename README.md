@@ -7,6 +7,5 @@ However, most of the functions and methods should work in Python 2.7.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Quick Look Plots
 
 *pending*
-
-### [Spectogram Examples) (ETA November)
+### [Spectogram Examples]
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
