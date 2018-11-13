@@ -6,5 +6,5 @@ However, most of the functions and methods should work in Python 2.7.
 ### [Equatorial Warping Estimations - Based on Arridge et al. (2008) (11/12/2018)](https://github.com/astro-abby/cassini_odds_ends/blob/master/CurrentSheet/Saturn_current_sheet_warping.ipynb)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Quick Look Plots
 
-### PENDING: Spectogram Examples
+#### PENDING: Spectrogram Examples
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
