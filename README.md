@@ -1,5 +1,5 @@
 # Cassini Odds and Ends 
-This repository contains odds and ends, or an assortment of useful items written in Python for Cassini data analysis. The files will be mostly uploaded in Jupyter and coded in Python 3.5+. 
+This repository contains odds and ends, or an assortment of useful items written in Python for Cassini data analysis and general space physics analysis with Python. The files will be mostly uploaded in Jupyter and coded in Python 3.5+. 
 However, most of the functions and methods should work in Python 2.7. 
 
 # Content
