@@ -11,7 +11,7 @@ However, most of the functions and methods should work in Python 2.7.
 
 
 ### [Making a General Spectrogram with PColormesh (3/6/2019)](https://github.com/astro-abby/cassini_odds_ends/blob/master/Spectrogram/Spectrogram_example.ipynb)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Containing basic pcolormesh example for a spectrogram (3D data plot) from date time indexed and missing / invalid data values.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Containing basic example for a spectrogram (3D data plot) from date time indexed and missing and invalid data.
 
 
 #### PENDING: Multi-Axis Formats -
